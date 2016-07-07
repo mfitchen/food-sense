@@ -49,6 +49,10 @@ div.col-lg-10 img {
   margin-top: 50px;
 }
 
+.lines {
+  border-bottom: 1px dashed lightgrey;
+}
+
 .border-line {
   padding: 10px;
   margin: 10px 0;
@@ -74,6 +78,75 @@ a:hover {
   text-decoration: none;
 }
 
+.btn-color {
+  color: rgba(52, 172, 152, 1);
+}
+
 .captions {
   background-color: rgba(52, 172, 152, 0.10);
+}
+
+.newsletter {
+   color: black;
+   font-style: italic;
+   font-size: 12px;
+ }
+
+ .friends {
+  color: black;
+  font-style: italic;
+  font-size: 12px;
+  margin-top: 1em;
+  margin-bottom: 6px;
+ }
+
+img.signup {
+  width: 43px;
+}
+
+.img-thumbnail {
+  border-radius: 0;
+}
+
+.less-space {
+  margin-top: 3em;
+}
+
+.space {
+  margin-top: 130px;
+}
+
+.social {
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.categories {
+  color: black;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.date {
+  color: gray;
+}
+
+.btn-twitter {
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+.footer {
+  border-top: 1px solid lightgray;
+  margin-top: 3em;
+}
+
+.copy {
+  color: lightgray;
+}
+
+.icons {
+  float: right;
+  display: inline;
 }
