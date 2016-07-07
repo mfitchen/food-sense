@@ -1,0 +1,79 @@
+/**,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}*/
+
+body {
+  color: rgba(52, 172, 152, 1);
+  font-family: ff-tisa-web-pro, Georgia, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul, li {
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(52, 172, 152, 1);
+}
+
+h3 {
+  font-size: 18px;
+  padding: 0;
+  margin: 0;
+  margin-top: 25px;
+}
+
+.captions p {
+  font-size: 12px;
+  margin-bottom: 25px;
+}
+
+div.col-lg-10 {
+  padding: 0;
+  margin: 0;
+}
+
+div.col-lg-10 img {
+  width: 100%;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.border-line {
+  padding: 10px;
+  margin: 10px 0;
+  border-top: 1px dashed lightgrey;
+  border-bottom: 1px dashed lightgrey;
+}
+
+.logo {
+  margin-bottom: 2em;
+}
+
+.logo:hover {
+  opacity: 0.8;
+}
+
+.col-lg-10 {
+  padding: 0;
+  margin: 0;
+}
+
+a:hover {
+  color: tomato;
+  text-decoration: none;
+}
+
+.captions {
+  background-color: rgba(52, 172, 152, 0.10);
+}
